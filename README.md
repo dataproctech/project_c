@@ -2,6 +2,10 @@
 
 # Project Title: [Title, e.g., "Interactive Checkers in C"]
 
+[🇵🇱 Polski](README.pl.md) | 🇬🇧 English
+
+Project description in English goes here.
+
 ## Project Description:
 An interactive, low-level programming project implemented entirely in C, featuring modular architecture, dynamic memory management, robust error handling, and a graphical user interface (GUI). This project complies with the specific academic requirements for a grade of 5.0, including structured and clear coding practices, effective use of pointers, structures, dynamic data structures, and file-based operations.
 
